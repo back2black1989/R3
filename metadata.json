@@ -1,0 +1,5 @@
+{
+  "name": "Cosmetic BOM & Cost Calculator",
+  "description": "A manufacturing resource planning tool for calculating component quantities, MOQs, and costs for multi-part cosmetic gift sets.",
+  "requestFramePermissions": []
+}
